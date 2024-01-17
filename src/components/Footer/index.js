@@ -91,7 +91,7 @@ function Footer() {
         </a>
       </FooterSocials>
       <CopyRight>
-        Copyright 2023 ©{" "}
+        Copyright 2024 ©{" "}
         <a
           aria-label="bio.link"
           href="https://bio.link/durga_potnuru"
