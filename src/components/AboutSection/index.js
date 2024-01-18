@@ -5,7 +5,7 @@ import { AiFillHtml5, AiFillGithub } from "react-icons/ai";
 import { DiCss3, DiReact } from "react-icons/di";
 import {  FaGitAlt } from "react-icons/fa";
 import { RiJavascriptFill } from "react-icons/ri";
-import { SiExpress, SiNpm } from "react-icons/si";
+
 
 import {
   AboutSectionContainer,
