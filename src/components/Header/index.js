@@ -59,7 +59,7 @@ function Header() {
           <NavLink>
             <ResumeBtn type="button" isDarkMode={isDarkMode}>
               <a
-                href="https://github.com/vijaypotnuru"
+                href="https://github.com/RevanthDiviti"
                 target="_blank"
                 rel="noreferrer"
                 style={{

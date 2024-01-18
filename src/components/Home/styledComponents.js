@@ -151,7 +151,7 @@ export const ScrollUp = styled.a`
   right: 32px;
   width: 50px;
   height: 50px;
-  transition: all 0.5s ease;
+  transition: all 0.1s ease;
   &:hover {
   }
 `;

@@ -1,9 +1,7 @@
 import { MdEmail } from "react-icons/md";
-import { TfiTwitterAlt } from "react-icons/tfi";
 import { useContext } from "react";
 
 import { BsGithub, BsLinkedin } from "react-icons/bs";
-import { SiHashnode } from "react-icons/si";
 
 import themeContext from "../../themeContext/themeContext";
 
@@ -27,27 +25,12 @@ function Footer() {
             marginRight: "5px",
           }}
         />
-        <a href="mailto:durgapotnuru07@gmail.com">durgapotnuru07@gmail.com</a>
+        <a href="mailto:revanthmudiraj103@gmail.com">revanthmudiraj103@gmail.com</a>
       </Email>
       <FooterSocials>
         <a
-          aria-label="twitter"
-          href="https://twitter.com/VijayPotnuru005"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <TfiTwitterAlt
-            color="#1d9bf0"
-            style={{
-              fontSize: "45px",
-              transition: "all 0.3s ease-in-out",
-              padding: "8px",
-            }}
-          />
-        </a>
-        <a
           aria-label="github"
-          href="https://github.com/vijaypotnuru"
+          href="https://github.com/RevanthDiviti"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -61,7 +44,7 @@ function Footer() {
         </a>
         <a
           aria-label="linkedin"
-          href="https://www.linkedin.com/in/durga-potnuru"
+          href="https://www.linkedin.com/in/revanth-diviti-a89636290"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -74,31 +57,16 @@ function Footer() {
             }}
           />
         </a>
-        <a
-          aria-label="hashnode"
-          href="https://hashnode.com/@vijaypotnuru"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <SiHashnode
-            color="#2962ff"
-            style={{
-              fontSize: "45px",
-              transition: "all 0.3s ease-in-out",
-              padding: "8px",
-            }}
-          />
-        </a>
       </FooterSocials>
       <CopyRight>
         Copyright 2024 ©{" "}
         <a
-          aria-label="bio.link"
-          href="https://bio.link/durga_potnuru"
+          aria-label=""
+          href="."
           target="_blank"
           rel="noopener noreferrer"
         >
-          Durga Potnuru
+          Revanth Diviti
         </a>{" "}
         - All Right Reserved.
       </CopyRight>
