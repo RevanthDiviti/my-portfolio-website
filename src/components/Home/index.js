@@ -32,7 +32,7 @@ function Home() {
         {/* Hero Section */}
         <HeroSection id="hero">
           <InfoContainer>
-            <PersonName>Hi, I'm Durga Potnuru👋</PersonName>
+            <PersonName>Hi, I'm Revanth Diviti👋</PersonName>
             <RoleType>Full Stack Developer</RoleType>
             <RoleNote>
               Experienced full stack developer proficient in creating robust web
