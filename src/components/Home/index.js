@@ -52,7 +52,7 @@ function Home() {
       {/* AboutSection */}
       <AboutSection />
       {/* ProjectsSection */}
-      {/* <ProjectsSection /> */}
+      <ProjectsSection />
       {/* ContactSection */}
       <ContactSection />
       {/* Footer */}

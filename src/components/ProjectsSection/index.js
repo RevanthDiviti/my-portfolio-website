@@ -72,14 +72,14 @@ function ProjectsSection() {
             >
               PORTFOLIO
             </FilterButton>
-            <FilterButton
+            {/* <FilterButton
               type="button"
               name="ECOMMERCE"
               onClick={onChangeCategory}
               isactive={activeCategory === "ECOMMERCE"}
             >
               ECOMMERCE
-            </FilterButton>
+            </FilterButton> 
             <FilterButton
               type="button"
               name="PRODUCTIVITY"
@@ -87,7 +87,7 @@ function ProjectsSection() {
               isactive={activeCategory === "PRODUCTIVITY"}
             >
               PRODUCTIVITY
-            </FilterButton>
+            </FilterButton>*/}
           </FilterContainer>
           <Projects>
             {projectCardList.map((project) => (
