@@ -66,11 +66,11 @@ function ProjectsSection() {
             </FilterButton>
             <FilterButton
               type="button"
-              name="SOCIALMEDIA"
+              name="PORTFOLIO"
               onClick={onChangeCategory}
-              isactive={activeCategory === "SOCIALMEDIA"}
+              isactive={activeCategory === "PORTFOLIO"}
             >
-              SOCIALMEDIA
+              PORTFOLIO
             </FilterButton>
             <FilterButton
               type="button"

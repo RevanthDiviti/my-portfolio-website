@@ -3,17 +3,17 @@ import { v4 as uuidv4 } from "uuid";
 const myProjectsList = [
   {
     id: uuidv4(),
-    category: "SOCIALMEDIA",
-    title: "Insta Share (Instagram Clone)",
+    category: "PORTFOLIO",
+    title: "Portfolio",
     description:
-      "Implemented responsive Instagram Clone with login, story and post listing, post search by caption, post liking and disliking, and user-specific post viewing.",
+      "Created my personal Portfolio website to give intro to the viewers of my GIT account",
     tags: ["HTML", "CSS", "Javascript", "React"],
     links: {
-      github: "https://github.com/vijaypotnuru/Insta-Share",
-      live: "https://durgainstashare.ccbp.tech/",
+      github: "https://github.com/RevanthDiviti/my-portfolio-website.git",
+      live: "https://revanthdiviti.github.io/my-portfolio-website/",
     },
     projectImage:
-      "https://res.cloudinary.com/dmlhm8dwi/image/upload/v1688371629/Screenshot_2023-07-03_133613_jnfyzm.png",
+      "https://res.cloudinary.com/dg7hf3jyn/image/upload/v1705660551/Portfolio_SS_tug9hf.jpg",
   },
   {
     id: uuidv4(),
