@@ -32,7 +32,7 @@ function AboutSection() {
           <MyPhoto
             alt="my photo"
             loading="lazy"
-            src="https://res.cloudinary.com/dmlhm8dwi/image/upload/v1687847887/durgapotnuru.new_cpfol3.png"
+            src="https://res.cloudinary.com/dg7hf3jyn/image/upload/v1705655276/Revanth_Square_swvqhy.jpg"
           />
         </Photowrapper>
         <Background isDarkMode={isDarkMode}>
@@ -110,7 +110,7 @@ function AboutSection() {
           <ToolList>
           <ToolItem>
               <img
-                src="https://res.cloudinary.com/dmlhm8dwi/image/upload/v1688022486/Python-logo-notext.svg_uvzbbk.png"
+                src="https://res.cloudinary.com/dg7hf3jyn/image/upload/v1705656032/django-icon_pugd5q.png"
                 style={{
                   width: "1rem",
                   marginRight: "0.5rem",
@@ -141,7 +141,7 @@ function AboutSection() {
           <ToolList>
             <ToolItem>
               <img
-                src="https://res.cloudinary.com/dmlhm8dwi/image/upload/v1688022770/sqlite_logo_icon_169724_ox8bsk.png"
+                src="https://res.cloudinary.com/dg7hf3jyn/image/upload/v1705656130/mysql-icon_hzwivg.png"
                 style={{
                   width: "1rem",
                   marginRight: "0.5rem",
